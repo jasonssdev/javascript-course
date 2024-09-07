@@ -1,25 +1,25 @@
 
-// // Get the parent element by ID
-// const parent = document.getElementById("parent")
-// console.log(parent)
+// Get the parent element by ID
+const parent = document.getElementById("parent")
+console.log(parent)
 
-// // Get the child element by children method
-// const children = parent.children
-// console.log(children)
+// Get the child element by children method
+const children = parent.children
+console.log(children)
 
-// // Get the first child by Fisrt Element Child method
-// const firstChild = parent.firstElementChild
-// console.log(firstChild)
+// Get the first child by Fisrt Element Child method
+const firstChild = parent.firstElementChild
+console.log(firstChild)
 
-// // Get the last child by last element child method
-// const lastChild = parent.lastElementChild
-// console.log(lastChild)
+// Get the last child by last element child method
+const lastChild = parent.lastElementChild
+console.log(lastChild)
 
-// const previousSibling = parent.previousElementSibling
-// console.log(previousSibling)
+const previousSibling = parent.previousElementSibling
+console.log(previousSibling)
 
-// const nextSibling = parent.nextElementSibling
-// console.log(nextSibling)
+const nextSibling = parent.nextElementSibling
+console.log(nextSibling)
 
 
 const child2 = document.querySelector('li')
